@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+/* NAV */
+.nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.nav-items {
+	float: right;
+}
+
+.nav-items {
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.nav-items:last-child {
+}
+
+/* SEARCH COMPONENT */
+.search-component {
+	text-align: center;
+	padding-top: 200px;
+}
+.google-img {
+	padding: 20px;
+}
+
+.search-bar {
+	margin: 15px;
+	width: 250px;
+	height: 20px;
+}
